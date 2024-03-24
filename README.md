@@ -50,9 +50,10 @@ An entrepreneur and software engineer passionate about cloud computing, DevOps, 
   🌟 2 stars | ⏰ CloudWatch Alarms setup
 
 ## 🌐 Connect with Me
+- [Eezze](https://eezze.io/) - Launched! Fundraising for Angel round, get in touch for a Demo of Eezze.
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
 - [Dev.to](https://dev.to/rolfstreefkerk)
-- [Eezze](https://eezze.io/) - Soon to launch!
+
 
 ---
 
