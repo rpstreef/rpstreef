@@ -1,6 +1,14 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-An entrepreneur and software engineer passionate about cloud computing, DevOps, and automation. Check out some of my projects below, where I combine code with creativity!
+### I create IT solutions and educational content in the fields of; Health, Science, and IT.
+
+With 20+ years of experience in the IT field. I've developed expert technical writing skills, and a curious nature that allows me to understand complex topics at a fundamental level.
+
+As a Consultant and Entrepreneur for a combined 10+ years, I've delivered custom solutions for large clients such as Airbus Group. I’ve built 4 software products,  and migrated one to the AWS Cloud.
+
+In the last 3 years, I have co-founded <a href="https://eezze.io" target="_blank">Eezze</a>. We help clients with automation. Solving; manual process inefficiencies, access to legacy systems, and creating efficient workflows.
+
+As a consultant and entrepreneur. I help clients automate their processes, and navigate complex topics in the fields of health and science.
 
 ## Skills
 
