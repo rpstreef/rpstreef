@@ -23,6 +23,7 @@ As a consultant and entrepreneur. I help clients automate their processes, and n
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Latest Blogs
+- [How to deploy your own website on AWS](https://rolfstreefkerk.com/posts/how-to-deploy-your-own-website-on-aws)
 - [How to Setup a Serverless Application with AWS SAM and Terraform](https://dev.to/rolfstreefkerk/how-to-setup-a-serverless-application-with-aws-sam-and-terraform)
 - [How to Protect Serverless (Open)API's?](https://dev.to/rolfstreefkerk/how-to-protect-serverless-openapis)
 - [Automated Static Site With AWS CodePipeline and CloudFormation](https://dev.to/rolfstreefkerk/automated-static-site-with-aws-codepipeline-and-cloudformation)
