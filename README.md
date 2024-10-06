@@ -5,6 +5,7 @@
 With over 20 years in IT, I've built a career focused on solving technical problems and creating practical solutions for businesses. I've worked hands-on in development, consulted for large companies, and started my own tech ventures.
 
 ### Key Highlights:
+
 • Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
 • Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
 • Designed cloud solutions on AWS to improve scalability and reduce costs
@@ -13,6 +14,7 @@ With over 20 years in IT, I've built a career focused on solving technical probl
 I specialize in identifying and solving technical challenges quickly, and I enjoy explaining complex IT topics in a simple, understandable way. My focus is on providing solutions that make a real difference for businesses.
 
 ### Right now, I'm working on:
+
 1. Sharing IT insights and practical tips on RolfStreefkerk.com
 2. Automating Social Media / SEO optimized content creation through InsightProse.com
 
