@@ -1,14 +1,22 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-### Innovative IT Solution Architect | Entrepreneur | Technical Content Creator
+## 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 | 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐭𝐫𝐞𝐩𝐫𝐞𝐧𝐞𝐮𝐫 | 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐖𝐫𝐢𝐭𝐞𝐫
 
-With over 20 years in IT, I've architected solutions for industry leaders like Airbus Group, PostNL, and Heineken, while also founding multiple tech startups. My expertise spans cloud architecture, full-stack development, and strategic consulting, with a strong focus on AWS solutions.
+With over 20 years in IT, I've built a career focused on solving technical problems and creating practical solutions for businesses. I've worked hands-on in development, consulted for large companies, and started my own tech ventures.
 
-Currently, I'm leveraging my experience to create educational content that bridges the gap between complex IT concepts and business strategy. I run RolfStreefkerk.com, where I share in-depth insights from my IT career, and I've founded InsightProse.com to help content creators optimize their reach.
+### 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+• Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
+• Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
+• Designed cloud solutions on AWS to improve scalability and reduce costs
+• Developed software using technologies like SAP, Java, Typescript, and React
 
-As co-founder of Eezze, I've worked on automating key aspects of software development to significantly reduce time-to-market and operational costs for businesses.
+I specialize in identifying and solving technical challenges quickly, and I enjoy explaining complex IT topics in a simple, understandable way. My focus is on providing solutions that make a real difference for businesses.
 
-I'm passionate about driving technological innovation and always eager to connect with fellow professionals to explore how we can leverage technology to achieve ambitious business goals.
+### 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰, 𝐈'𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:
+1. Sharing IT insights and practical tips on RolfStreefkerk.com
+2. Automating Social Media / SEO optimized content creation through InsightProse.com
+
+Whether it's cloud architecture, software development, or helping businesses adopt new technologies, I bring practical solutions that work.
 
 ## Skills
 
