@@ -6,10 +6,10 @@ With over 20 years in IT, I've built a career focused on solving technical probl
 
 ### Key Highlights:
 
-• Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
-• Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
-• Designed cloud solutions on AWS to improve scalability and reduce costs
-• Developed software using technologies like SAP, Java, Typescript, and React
+- Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
+- Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
+- Designed cloud solutions on AWS to improve scalability and reduce costs
+- Developed software using technologies like SAP, Java, Typescript, and React
 
 I specialize in identifying and solving technical challenges quickly, and I enjoy explaining complex IT topics in a simple, understandable way. My focus is on providing solutions that make a real difference for businesses.
 
