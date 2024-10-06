@@ -1,14 +1,14 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-### I create IT solutions and educational content in the fields of; Health, Science, and IT.
+### Innovative IT Solution Architect | Entrepreneur | Technical Content Creator
 
-With 20+ years of experience in the IT field. I've developed expert technical writing skills, and a curious nature that allows me to understand complex topics at a fundamental level.
+With over 20 years in IT, I've architected solutions for industry leaders like Airbus Group, PostNL, and Heineken, while also founding multiple tech startups. My expertise spans cloud architecture, full-stack development, and strategic consulting, with a strong focus on AWS solutions.
 
-As a Consultant and Entrepreneur for a combined 10+ years, I've delivered custom solutions for large clients such as Airbus Group. I’ve built 4 software products,  and migrated one to the AWS Cloud.
+Currently, I'm leveraging my experience to create educational content that bridges the gap between complex IT concepts and business strategy. I run RolfStreefkerk.com, where I share in-depth insights from my IT career, and I've founded InsightProse.com to help content creators optimize their reach.
 
-In the last 3 years, I have co-founded <a href="https://eezze.io" target="_blank">Eezze</a>. We help clients with automation. Solving; manual process inefficiencies, access to legacy systems, and creating efficient workflows.
+As co-founder of Eezze, I'm working on automating key aspects of software development to significantly reduce time-to-market and operational costs for businesses.
 
-As a consultant and entrepreneur. I help clients automate their processes, and navigate complex topics in the fields of health and science.
+I'm passionate about driving technological innovation and always eager to connect with fellow professionals to explore how we can leverage technology to achieve ambitious business goals.
 
 ## Skills
 
