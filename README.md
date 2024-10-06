@@ -64,6 +64,7 @@ I'm passionate about driving technological innovation and always eager to connec
 - [Eezze](https://eezze.io/) - Low code backend development suite to quickly develop integration, API, or workflow solutions.
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
 - [Dev.to](https://dev.to/rolfstreefkerk)
+- [Twitter/X](https://x.com/rolfstreefkerk)
 
 ---
 
