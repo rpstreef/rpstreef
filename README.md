@@ -1,10 +1,10 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-## 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 | 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐭𝐫𝐞𝐩𝐫𝐞𝐧𝐞𝐮𝐫 | 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐖𝐫𝐢𝐭𝐞𝐫
+## Solution Architect | Software Entrepreneur | IT Writer
 
 With over 20 years in IT, I've built a career focused on solving technical problems and creating practical solutions for businesses. I've worked hands-on in development, consulted for large companies, and started my own tech ventures.
 
-### 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+### Key Highlights:
 • Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
 • Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
 • Designed cloud solutions on AWS to improve scalability and reduce costs
@@ -12,7 +12,7 @@ With over 20 years in IT, I've built a career focused on solving technical probl
 
 I specialize in identifying and solving technical challenges quickly, and I enjoy explaining complex IT topics in a simple, understandable way. My focus is on providing solutions that make a real difference for businesses.
 
-### 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰, 𝐈'𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧:
+### Right now, I'm working on:
 1. Sharing IT insights and practical tips on RolfStreefkerk.com
 2. Automating Social Media / SEO optimized content creation through InsightProse.com
 
