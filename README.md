@@ -6,7 +6,7 @@ With over 20 years in IT, I've architected solutions for industry leaders like A
 
 Currently, I'm leveraging my experience to create educational content that bridges the gap between complex IT concepts and business strategy. I run RolfStreefkerk.com, where I share in-depth insights from my IT career, and I've founded InsightProse.com to help content creators optimize their reach.
 
-As co-founder of Eezze, I'm working on automating key aspects of software development to significantly reduce time-to-market and operational costs for businesses.
+As co-founder of Eezze, I've worked on automating key aspects of software development to significantly reduce time-to-market and operational costs for businesses.
 
 I'm passionate about driving technological innovation and always eager to connect with fellow professionals to explore how we can leverage technology to achieve ambitious business goals.
 
