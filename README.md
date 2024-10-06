@@ -59,10 +59,11 @@ I'm passionate about driving technological innovation and always eager to connec
   🌟 2 stars | ⏰ CloudWatch Alarms setup
 
 ## 🌐 Connect with Me
-- [Eezze](https://eezze.io/) - Launched! Fundraising for Angel round, get in touch for a Demo of Eezze.
+
+- [InsightProse](https://insightprose.com) - Social Media and SEO content generation from original long form articles.
+- [Eezze](https://eezze.io/) - Low code backend development suite to quickly develop integration, API, or workflow solutions.
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
 - [Dev.to](https://dev.to/rolfstreefkerk)
-
 
 ---
 
