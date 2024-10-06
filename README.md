@@ -1,6 +1,6 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-## Solution Architect | Software Entrepreneur | IT Writer
+## Solution Architect | Software Entrepreneur | Technical Writer
 
 With over 20 years in IT, I've built a career focused on solving technical problems and creating practical solutions for businesses. I've worked hands-on in development, consulted for large companies, and started my own tech ventures.
 
