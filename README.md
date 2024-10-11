@@ -33,6 +33,7 @@ Whether it's cloud architecture, software development, or helping businesses ado
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
 
 ## Latest Blogs
+- [How to implement the Twitter - X API using Python FastAPI](https://rolfstreefkerk.com/article/how-to-implement-the-twitter-x-api-using-python-fastapi)
 - [Learning Path: Production-Ready Kubernetes](https://rolfstreefkerk.com/topics#learning-paths)
 - [How to deploy your own website on AWS](https://rolfstreefkerk.com/posts/how-to-deploy-your-own-website-on-aws)
 - [How to Setup a Serverless Application with AWS SAM and Terraform](https://dev.to/rolfstreefkerk/how-to-setup-a-serverless-application-with-aws-sam-and-terraform)
