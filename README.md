@@ -35,11 +35,6 @@ I have 19+ years of experience across software engineering, enterprise integrati
 
 ## Selected GitHub work
 
-### 🤖 AI and RAG experiments
-
-- **[Langflow setup](https://github.com/rpstreef/langflow-setup)** — Docker setup and a first retrieval-augmented generation application. ⭐ 0 stars
-- **[LangChain setup](https://github.com/rpstreef/langchain-setup)** — experiments with LangChain-based applications. ⭐ 0 stars
-
 ### ☁️ Cloud, APIs, and infrastructure
 
 - **[OpenAPI Terraform Example](https://github.com/rpstreef/openapi-tf-example)** — OpenAPI with AWS API Gateway, Lambda, Cognito, SNS, and CloudWatch. ⭐ 44 stars
