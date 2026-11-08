@@ -1,83 +1,57 @@
 # Hi, I'm Rolf Streefkerk 👋
 
-## Solution Architect | Software Entrepreneur | Technical Writer
+## Fractional CTO | Technical Founder | AI & Cloud Architect
 
-With over 20 years in IT, I've built a career focused on solving technical problems and creating practical solutions for businesses. I've worked hands-on in development, consulted for large companies, and started my own tech ventures.
+I build practical software products and the platforms that support them. My work spans product strategy, solution architecture, hands-on implementation, and operations, with a current focus on agentic AI, governed workflows, retrieval-augmented generation, and reliable cloud infrastructure.
 
-### Key Highlights:
+I have 19+ years of experience across software engineering, enterprise integration, AWS architecture, product leadership, and technical entrepreneurship. I enjoy turning ambiguous ideas into useful systems that people can understand, operate, and trust.
 
-- Delivered custom IT solutions for Airbus Group, improving processes under tight deadlines
-- Co-founded Eezze.io, a low-code platform that speeds up backend development and system integration
-- Designed cloud solutions on AWS to improve scalability and reduce costs
-- Developed software using technologies like SAP, Java, Typescript, and React
+## What I'm working on
 
-I specialize in identifying and solving technical challenges quickly, and I enjoy explaining complex IT topics in a simple, understandable way. My focus is on providing solutions that make a real difference for businesses.
+- **[Pontivus](https://pontivus.com/)** — a reusable platform for building agentic AI products with typed LangGraph workflows, shared UI tooling, human control, permissions, and inspectable execution history.
+- **[Pontivus Legal](https://legal.pontivus.com/)** — a contract-lifecycle product for legal teams, with governed drafting and review workflows, DOCX operations, cited findings, approval paths, and human review.
+- **AI-assisted legal analysis** — retrieval-augmented generation using embeddings and vector search over Thai Legal Acts to help verify claims made in contract clauses.
 
-### Right now, I'm working on:
+## What I bring
 
-1. Sharing IT insights and practical tips on RolfStreefkerk.com
-2. Automating Social Media / SEO optimized content creation through InsightProse.com
+- Architecture for AI/LLM products, RAG systems, workflow engines, and enterprise integrations
+- Kubernetes platform operations with NATS, CloudNativePG, Longhorn, observability, secrets management, and backup/recovery
+- AWS and serverless architecture across Lambda, API Gateway, DynamoDB, S3, Cognito, ECS, and Elasticsearch
+- Product-minded technical leadership, requirements discovery, stakeholder communication, and startup ownership
+- Earlier enterprise delivery for EADS (Airbus Group), PostNL, Heineken, KPN, and other large organisations
 
-Whether it's cloud architecture, software development, or helping businesses adopt new technologies, I bring practical solutions that work.
+## Technology
 
-## Skills
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Entrepreneur](https://img.shields.io/badge/Entrepreneur-%237D4698.svg?&style=for-the-badge&logo=entrepreneur&logoColor=white)
-![Product Management](https://img.shields.io/badge/Product%20Management-%23F7B93E.svg?&style=for-the-badge&logo=product-hunt&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%23E34F26.svg?&style=for-the-badge&logo=sql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%2300F.svg?&style=for-the-badge&logo=nosql&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+## Selected GitHub work
 
-## Latest Blogs
-- [How to implement the Twitter - X API using Python FastAPI](https://rolfstreefkerk.com/article/how-to-implement-the-twitter-x-api-using-python-fastapi)
-- [Learning Path: Production-Ready Kubernetes](https://rolfstreefkerk.com/topics#learning-paths)
-- [How to deploy your own website on AWS](https://rolfstreefkerk.com/posts/how-to-deploy-your-own-website-on-aws)
-- [How to Setup a Serverless Application with AWS SAM and Terraform](https://dev.to/rolfstreefkerk/how-to-setup-a-serverless-application-with-aws-sam-and-terraform)
-- [How to Protect Serverless (Open)API's?](https://dev.to/rolfstreefkerk/how-to-protect-serverless-openapis)
-- [Automated Static Site With AWS CodePipeline and CloudFormation](https://dev.to/rolfstreefkerk/automated-static-site-with-aws-codepipeline-and-cloudformation)
+### 🤖 AI and RAG experiments
 
-## Featured Repositories
+- **[Langflow setup](https://github.com/rpstreef/langflow-setup)** — Docker setup and a first retrieval-augmented generation application. ⭐ 0 stars
+- **[LangChain setup](https://github.com/rpstreef/langchain-setup)** — experiments with LangChain-based applications. ⭐ 0 stars
 
-### ☁️ Cloud and DevOps
+### ☁️ Cloud, APIs, and infrastructure
 
-- **[OpenAPI Terraform Example](https://github.com/rpstreef/openapi-tf-example)**  
-  🌟 43 stars | 🖥️ Integrating OpenAPI with Terraform
+- **[OpenAPI Terraform Example](https://github.com/rpstreef/openapi-tf-example)** — OpenAPI with AWS API Gateway, Lambda, Cognito, SNS, and CloudWatch. ⭐ 44 stars
+- **[Terraform AWS SAM Integration Example](https://github.com/rpstreef/terraform-aws-sam-integration-example)** — combining Terraform and AWS SAM for application delivery. ⭐ 35 stars
+- **[AWS SAM Node Example](https://github.com/rpstreef/aws-sam-node-example)** — a Node.js AWS SAM project example. ⭐ 18 stars
+- **[Terraform AWS CodePipeline SAM](https://github.com/rpstreef/terraform-aws-codepipeline-sam)** — deploying SAM applications through Terraform and AWS CodePipeline. ⭐ 8 stars
+- **[Static site generator](https://github.com/rpstreef/static-site-generator)** — generating a Hugo site and publishing it to S3. ⭐ 3 stars
 
-- **[Terraform AWS SAM Integration Example](https://github.com/rpstreef/terraform-aws-sam-integration-example)**  
-  🌟 33 stars | 🚀 AWS SAM and Terraform
+## Writing and links
 
-- **[AWS SAM Node Example](https://github.com/rpstreef/aws-sam-node-example)**  
-  🌟 20 stars | 💻 AWS SAM with Node.js
-
-- **[Terraform AWS CodePipeline SAM](https://github.com/rpstreef/terraform-aws-codepipeline-sam)**  
-  🌟 8 stars | 🛠️ AWS SAM in CodePipeline
-
-### 🛠️ Infrastructure as Code
-
-- **[Terraform API Gateway](https://github.com/rpstreef/tf-apigateway)**  
-  🌟 3 stars | 🌐 Terraform for API Gateway
-
-- **[Terraform Lambda](https://github.com/rpstreef/tf-lambda)**  
-  🌟 2 stars | 🔧 AWS Lambda via Terraform
-
-- **[Terraform Cognito](https://github.com/rpstreef/tf-cognito)**  
-  🌟 2 stars | 🔑 Terraform for AWS Cognito
-
-- **[Terraform AWS CloudWatch Alarms](https://github.com/rpstreef/terraform-aws-cloudwatch-alarms)**  
-  🌟 2 stars | ⏰ CloudWatch Alarms setup
-
-## 🌐 Connect with Me
-
-- [InsightProse](https://insightprose.com) - Social Media and SEO content generation from original long form articles.
-- [Eezze](https://eezze.io/) - Low code backend development suite to quickly develop integration, API, or workflow solutions.
+- [Dev.to](https://dev.to/rolfstreefkerk) — technical writing on AWS, serverless systems, Kubernetes, and software architecture
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
-- [Dev.to](https://dev.to/rolfstreefkerk)
-- [Twitter/X](https://x.com/rolfstreefkerk)
+- [GitHub](https://github.com/rpstreef)
 
----
-
-📬 I'm always open to collaborations and discussions on my projects!
+I'm open to fractional CTO, technical advisory, and selected software/IT leadership conversations.
