@@ -8,13 +8,18 @@ I have 19+ years of experience across software engineering, enterprise integrati
 
 ## What I'm working on
 
+- **[Span](https://github.com/pontivus-com/span)** — an open-source local MCP server for coding agents. It keeps investigations tied to exact source evidence, preserves reusable understanding, and marks affected understanding for reassessment when the supporting code changes. ⭐ 1 star
 - **[Pontivus](https://pontivus.com/)** — a reusable platform for building agentic AI products with typed LangGraph workflows, shared UI tooling, human control, permissions, and inspectable execution history.
+- **Pontivus Agentic Workflow Builder** — the framework layer behind the platform: YAML-driven workflows, ReAct agents, strategy evaluation, real-time observability, and structured human-in-the-loop interactions.
 - **[Pontivus Legal](https://legal.pontivus.com/)** — a contract-lifecycle product for legal teams, with governed drafting and review workflows, DOCX operations, cited findings, approval paths, and human review.
+- **Pontivus development automation and agent memory** — tooling for specification-driven multi-agent work, deterministic validation, source-backed understanding, and freshness checks across coding sessions.
 - **AI-assisted legal analysis** — retrieval-augmented generation using embeddings and vector search over Thai Legal Acts to help verify claims made in contract clauses.
 
 ## What I bring
 
 - Architecture for AI/LLM products, RAG systems, workflow engines, and enterprise integrations
+- MCP servers and developer tools that make coding-agent context reusable, inspectable, and freshness-aware
+- Multi-agent orchestration, human-in-the-loop workflows, deterministic validation, and gated change application
 - Kubernetes platform operations with NATS, CloudNativePG, Longhorn, observability, secrets management, and backup/recovery
 - AWS and serverless architecture across Lambda, API Gateway, DynamoDB, S3, Cognito, ECS, and Elasticsearch
 - Product-minded technical leadership, requirements discovery, stakeholder communication, and startup ownership
@@ -35,6 +40,10 @@ I have 19+ years of experience across software engineering, enterprise integrati
 
 ## Selected GitHub work
 
+### 🧠 Agent infrastructure and developer tools
+
+- **[Span](https://github.com/pontivus-com/span)** — a local MCP server for retaining agent understanding with source evidence and explicit reassessment. ⭐ 1 star
+
 ### ☁️ Cloud, APIs, and infrastructure
 
 - **[OpenAPI Terraform Example](https://github.com/rpstreef/openapi-tf-example)** — OpenAPI with AWS API Gateway, Lambda, Cognito, SNS, and CloudWatch. ⭐ 44 stars
@@ -46,6 +55,7 @@ I have 19+ years of experience across software engineering, enterprise integrati
 ## Writing and links
 
 - [My home](https://rolfstreefkerk.com) - personal homepage
+- [I got tired of coding agents trusting stale context, so I built Span](https://rolfstreefkerk.com/article/span-mcp)
 - [Dev.to](https://dev.to/rolfstreefkerk) — technical writing on AWS, serverless systems, Kubernetes, and software architecture
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
 - [GitHub](https://github.com/rpstreef)
