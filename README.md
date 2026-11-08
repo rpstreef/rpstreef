@@ -45,6 +45,7 @@ I have 19+ years of experience across software engineering, enterprise integrati
 
 ## Writing and links
 
+- [My home](https://rolfstreefkerk.com) - personal homepage
 - [Dev.to](https://dev.to/rolfstreefkerk) — technical writing on AWS, serverless systems, Kubernetes, and software architecture
 - [LinkedIn](https://www.linkedin.com/in/rolfstreefkerk/)
 - [GitHub](https://github.com/rpstreef)
